@@ -11,7 +11,7 @@
 - **Programming Languages**: C, C++, Java, Python, MySQL, HTML, CSS, JavaScript, PHP
 - **Development Environments**: Visual Studio Code, PyCharm, Eclipse
 - **Other**: Problem Solving, Data Structures, Algorithm Design
-
+![](https://github.com/classicpc/classicpc/blob/main/1.gif)
 ## 💼 Projects
 
 - [Project 1]: Brief Description or Link
