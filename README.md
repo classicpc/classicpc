@@ -2,7 +2,7 @@
 
 💻 Aspiring Software Developer | 🌐 Technology Enthusiast | 🚀 Open-Source Contributor
 
-![](https://github.com/classicpc/intro.gif)
+![]((https://github.com/classicpc/classicpc/blob/main/intro.gif))
 
 👋 Hi there! I'm Pranav Chaudhari, a 2nd year student studying Bachelor of Engineering (Hons.), Software Engineering at Ontario Tech University. My passion for technology drives me to explore new ideas, learn new skills, and contribute to meaningful projects.
 
