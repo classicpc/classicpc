@@ -26,25 +26,20 @@
 
 ## 🌱 Current Learnings
 
-- Currently learning [Specific Topic or Technology]
-- Excited to explore [Another Topic or Technology]
+- Currently learning Data Structures and Algorithm & Principle of Software & Requirements
+- Excited to explore AI & ML PYTHON
 
 ## 📫 Contact Me
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
-- Portfolio: [Link to Your Portfolio or Personal Website]
+- Email: pranavc2004@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pranav-chaudhari-366a76248/
+- Portfolio: Pending!!!
 
 ## 🚀 Goals
 
 - Contribute more to open-source projects
 - Attend technology conferences or workshops
 - Secure an internship or co-op position in software development
-
-## 💬 About Me
-
-[Add a brief paragraph about yourself, your interests, hobbies, or anything else you'd like to share.]
 
 Let's connect, collaborate, and learn together!
 
