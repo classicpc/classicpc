@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
  
 </div>
- ![](https://github.com/classicpc/classicpc/blob/main/readme2.gif)
+![](https://github.com/classicpc/classicpc/blob/main/readme2.gif)
 
 
 <div align="left">
