@@ -66,11 +66,7 @@
 - **Development Environments**: Visual Studio Code, PyCharm, Eclipse
 - **Other**: Problem Solving, Data Structures, Algorithm Design
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn)
-![](https://github.com/classicpc/classicpc/blob/main/1.gif)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn&unique={true|1|on|yes})
+
 
 
 
