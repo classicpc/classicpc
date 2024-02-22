@@ -12,6 +12,7 @@
 - **Development Environments**: Visual Studio Code, PyCharm, Eclipse
 - **Other**: Problem Solving, Data Structures, Algorithm Design
 ![](https://github.com/classicpc/classicpc/blob/main/1.gif)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn)
 ## 💼 Projects
 
 - [Project 1]: Brief Description or Link
