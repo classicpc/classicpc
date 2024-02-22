@@ -34,9 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  ![](https://github.com/classicpc/classicpc/blob/main/readme1.gif)
+ 
 </div>
-
+ ![](https://github.com/classicpc/classicpc/blob/main/readme2.gif)
 ###
 
 <div align="left">
