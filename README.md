@@ -6,20 +6,7 @@
 
 👋 Hi there! I'm Pranav Chaudhari, a 2nd year student studying Bachelor of Engineering (Hons.), Software Engineering at Ontario Tech University. My passion for technology drives me to explore new ideas, learn new skills, and contribute to meaningful projects.
 
-## 🔧 Skills & Technologies
 
-- **Programming Languages**: C, C++, Java, Python, MySQL, HTML, CSS, JavaScript, PHP
-- **Development Environments**: Visual Studio Code, PyCharm, Eclipse
-- **Other**: Problem Solving, Data Structures, Algorithm Design
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn)
-![](https://github.com/classicpc/classicpc/blob/main/1.gif)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn&unique={true|1|on|yes})
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -55,6 +42,21 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
+## 🔧 Skills & Technologies
+
+- **Programming Languages**: C, C++, Java, Python, MySQL, HTML, CSS, JavaScript, PHP
+- **Development Environments**: Visual Studio Code, PyCharm, Eclipse
+- **Other**: Problem Solving, Data Structures, Algorithm Design
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn)
+![](https://github.com/classicpc/classicpc/blob/main/1.gif)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y43hg1sq4na98ls5t3442krrn&unique={true|1|on|yes})
+
+
+
 ## 💼 Projects
 
 - [Project 1]: Brief Description or Link
