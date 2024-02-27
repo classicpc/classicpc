@@ -40,11 +40,11 @@
  
 </div>
 
+## 📊 GitHub Stats
 
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=classicpc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=classicpc&theme=dark&hide_border=false"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classicpc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 ## 🔧 Skills & Technologies
 
@@ -84,14 +84,8 @@
   <a href="mailto:pranavc2004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
 
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=classicpc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=classicpc&theme=dark&hide_border=false"><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classicpc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical")
 
 
 <h2 align="center">Let's connect, collaborate, and learn together!</h2>
