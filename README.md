@@ -52,10 +52,6 @@
 - **Development Environments**: Visual Studio Code, PyCharm, Eclipse
 - **Other**: Problem Solving, Data Structures, Algorithm Design
 
-
-
-
-
 ## 💼 Projects
 
 - [Project 1]: Brief Description or Link
@@ -70,7 +66,7 @@
 
 ## 🌱 Current Learnings
 
-- Currently learning Data Structures and Algorithm & Principle of Software & Requirements
+- Currently learning Data Structures and Algorithm & Principles of Software & Requirements
 - Excited to explore AI & ML PYTHON
 
 ## 🚀 Goals
