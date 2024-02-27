@@ -2,7 +2,10 @@
 
 💻 Aspiring Software Developer | 🌐 Technology Enthusiast | 🚀 Open-Source Contributor
 
-![](https://github.com/classicpc/classicpc/blob/main/readme.gif)
+
+
+<img src='https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif' >
+
 
 <h2>👋 Hi there! I'm Pranav Chaudhari, a 2nd year student studying Bachelor of Engineering (Hons.), Software Engineering at Ontario Tech University. My passion for technology drives me to explore new ideas, learn new skills, and contribute to meaningful projects.</h2>
 
@@ -47,7 +50,6 @@
 </div>
 
 
-![](https://github.com/classicpc/classicpc/blob/main/readme1.gif)
 
 ## 🔧 Skills & Technologies
 
@@ -90,7 +92,7 @@
 
 
 <h2>Let's connect, collaborate, and learn together!</h2>
-
+<img src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' style="width: 100%; display: block;">
 <!---
 classicpc/classicpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
