@@ -85,7 +85,7 @@
 </div>
 
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical")
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical")
 
 
 <h2 align="center">Let's connect, collaborate, and learn together!</h2>
