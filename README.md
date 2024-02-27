@@ -7,13 +7,13 @@
 <img src='https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif' >
 
 
-<h2>👋 Hi there! I'm Pranav Chaudhari, a 2nd year student studying Bachelor of Engineering (Hons.), Software Engineering at Ontario Tech University. My passion for technology drives me to explore new ideas, learn new skills, and contribute to meaningful projects.</h2>
+<h2 align="center">👋 Hi there! I'm Pranav Chaudhari, a 2nd year student studying Bachelor of Engineering (Hons.), Software Engineering at Ontario Tech University. My passion for technology drives me to explore new ideas, learn new skills, and contribute to meaningful projects.</h2>
 
 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -42,7 +42,7 @@
 
 
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/pranav-chaudhari-366a76248/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://www.instagram.com/_classic_pc_/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="https://discordapp.com/users/753993400730255360"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
