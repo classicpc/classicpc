@@ -83,21 +83,17 @@
   <a href="https://discordapp.com/users/753993400730255360"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="mailto:pranavc2004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=classicpc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=classicpc&theme=dark&hide_border=false"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classicpc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=classicpc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=classicpc&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2 align="center">Let's connect, collaborate, and learn together!</h2>
 <p align="center">
 <img src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' >
