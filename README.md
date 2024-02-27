@@ -84,9 +84,9 @@
   <a href="mailto:pranavc2004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
 
-
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical")
-
+</p>
 
 <h2 align="center">Let's connect, collaborate, and learn together!</h2>
 <p align="center">
