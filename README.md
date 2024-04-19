@@ -54,15 +54,15 @@
 
 ## 💼 Projects
 
-- [Project 1]: Brief Description or Link
-- [Project 2]: Brief Description or Link
-- [Project 3]: Brief Description or Link
+- To Do List
+- Airline Management System
+- Sky Inventorium
 
 ## 🌟 Achievements
 
-- [Your Achievement 1]
-- [Your Achievement 2]
-- [Your Achievement 3]
+- 100 WPM
+- Microsoft Word Certified
+- C, C++, Python Certified
 
 ## 🌱 Current Learnings
 
