@@ -7,7 +7,7 @@
 <img src='https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif' >
 
 
-<h2 align="center">👋 Hi there! I'm Pranav Chaudhari, a 2nd year student studying Bachelor of Engineering (Hons.), Software Engineering at Ontario Tech University. My passion for technology drives me to explore new ideas, learn new skills, and contribute to meaningful projects.</h2>
+<h2 align="center">👋 Hi there! I'm Pranav Chaudhari, a 3rd year student studying Bachelor of Engineering (Hons.), Software Engineering at Ontario Tech University. My passion for technology drives me to explore new ideas, learn new skills, and contribute to meaningful projects.</h2>
 
 
 
