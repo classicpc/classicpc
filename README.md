@@ -57,6 +57,8 @@
 - To Do List
 - Airline Management System
 - Sky Inventorium
+- Event Hub
+- NeurBloom AI
 
 ## 🌟 Achievements
 
@@ -66,8 +68,8 @@
 
 ## 🌱 Current Learnings
 
-- Currently learning Data Structures and Algorithm & Principles of Software & Requirements
-- Excited to explore AI & ML PYTHON
+- Currently learning DBT
+- Excited to explore AI & ML 
 
 ## 🚀 Goals
 
